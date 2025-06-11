@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner larissa"/>
 
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Olá! Eu sou a Larissa 👋</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Hi! I'm Larissa 👩‍💻</h1>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4b4b4b; font-size: 18px; line-height: 1.5;">
   Estudante de <strong style="color:#6f42c1;">Análise e Desenvolvimento de Sistemas</strong><br>
