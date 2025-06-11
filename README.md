@@ -1,60 +1,63 @@
-# 📚 Sistema de Gerenciamento de Biblioteca
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Bem-vinda,%20Larissa!&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner larissa"/>
 
-Este é um sistema simples de gerenciamento de biblioteca desenvolvido em Python. Ele permite o cadastro de livros e alunos, empréstimo e devolução 
-de livros, além de persistência dos dados em arquivos CSV.
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Olá! Eu sou a Larissa 👋</h1>
 
-## 🚀 Funcionalidades
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4b4b4b; font-size: 18px; line-height: 1.5;">
+  Estudante de <strong style="color:#6f42c1;">Análise e Desenvolvimento de Sistemas</strong><br>
+  Iniciante em TI • Futura Desenvolvedora <strong style="color:#6f42c1;">Full Stack</strong>
+</p>
 
-- Cadastro de livros com ISBN, título, autor e ano de publicação
-- Cadastro de alunos com ID (matrícula) e nome
-- Empréstimo de livros para alunos
-- Devolução de livros
-- Listagem de todos os livros ou apenas os disponíveis
-- Listagem de alunos cadastrados
-- Salvamento e carregamento automático dos dados em arquivos CSV
+---
 
-## 🛠️ Tecnologias utilizadas
+## 🚀 Sobre mim
 
-- Python 3
-- Manipulação de arquivos `.csv`
-- Interface de texto via terminal
+<p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4b4b4b; font-size: 16px; line-height: 1.6;">
+🎓 Atualmente estudo ADS e estou mergulhando no mundo da programação.<br>
+🧠 Gosto de desafios, resolver problemas e transformar ideias em código.<br>
+🌱 Aprendendo: Python, Java, HTML, CSS e lógica de programação.<br>
+🎯 Objetivo: me tornar uma desenvolvedora web full stack.
+</p>
 
-## 💾 Estrutura de Arquivos
+---
 
-- `livros.csv`: contém os dados dos livros cadastrados e seus status (disponível ou emprestado).
-- `alunos.csv`: contém os dados dos alunos e os ISBNs dos livros emprestados.
+## 💻 Tecnologias em aprendizado
 
-## ▶️ Como Executar
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  &nbsp;&nbsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+  &nbsp;&nbsp;
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  &nbsp;&nbsp;
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-1. Certifique-se de ter o Python 3 instalado:
-   ```bash
-   python --version
+---
 
-CLONE ESSE REPOSITÓRIO :
+## 📫 Como me encontrar
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-souza-591895359/" target="_blank" style="text-decoration:none;">
+    <kbd style="border-radius: 12px; background: #0A66C2; color: white; padding: 8px 15px; font-weight: bold; font-size: 14px;">
+      LinkedIn
+    </kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/larisouza106/" target="_blank" style="text-decoration:none;">
+    <kbd style="border-radius: 12px; background: #E4405F; color: white; padding: 8px 15px; font-weight: bold; font-size: 14px;">
+      Instagram
+    </kbd>
+  </a>
+  &nbsp;&nbsp;
+  <a href="Larissasouza.santos103.lgs@gmail.com" style="text-decoration:none;">
+    <kbd style="border-radius: 12px; background: #D14836; color: white; padding: 8px 15px; font-weight: bold; font-size: 14px;">
+      Email
+    </kbd>
+  </a>
+</p>
 
-EXECUTE O PROGRAMA :
+---
 
-python biblioteca.py
-
-
-
- EXEMPLO DE USO : 
-
-
-  SISTEMA DE BIBLIOTECA
-
-1. Cadastrar Livro
-2. Listar Livros Disponíveis
-3. Listar Todos os Livros
-4. Cadastrar Aluno
-5. Listar Alunos
-6. Emprestar Livro
-7. Devolver Livro
-8. Salvar e Sair
-
-Escolha uma opção:
-
-
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #6f42c1; font-size: 16px;">
+✨ Obrigada por visitar meu perfil! ✨
+</p>
