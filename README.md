@@ -39,9 +39,9 @@ EXECUTE O PROGRAMA :
 
 python biblioteca.py
 
- EXEMPLO DE USO : 
 
-$ python biblioteca.py
+
+ EXEMPLO DE USO : 
 
 
   SISTEMA DE BIBLIOTECA
