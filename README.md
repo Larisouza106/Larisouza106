@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Bem-vinda,%20Larissa!&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner larissa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=250&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=45&fontColor=ffffff&animation=fadeIn" alt="banner larissa"/>
+
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2c3e50;">Olá! Eu sou a Larissa 👋</h1>
 
