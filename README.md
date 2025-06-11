@@ -49,7 +49,7 @@
     </kbd>
   </a>
   &nbsp;&nbsp;
-  <a href="Larissasouza.santos103.lgs@gmail.com" style="text-decoration:none;">
+ <a href="mailto:larissasouza.santos103.lgs@gmail.com" style="text-decoration:none;">
     <kbd style="border-radius: 12px; background: #D14836; color: white; padding: 8px 15px; font-weight: bold; font-size: 14px;">
       Email
     </kbd>
