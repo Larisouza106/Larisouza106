@@ -54,7 +54,7 @@ $ python biblioteca.py
 6. Emprestar Livro
 7. Devolver Livro
 8. Salvar e Sair
-==============================
+
 Escolha uma opção:
 
 
